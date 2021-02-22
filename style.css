@@ -1,0 +1,29 @@
+.timeCounter{
+    margin-top: 50px;
+    text-align: center;
+}
+.heading{
+    font-size: 60px;
+    color: orange;
+    text-shadow: lightgray;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    box-shadow: 5px 5px 15px lightgray;
+    padding: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.boxed{
+    height: 400px;
+}
+.end{
+    justify-content: center;
+    color: red;
+    padding: 25px;
+    margin: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
